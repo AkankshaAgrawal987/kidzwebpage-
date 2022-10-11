@@ -1,1 +1,1 @@
-# kidzwebpage-
+# kidz-world-static
